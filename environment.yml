@@ -1,0 +1,12 @@
+name: notebook-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - keras
+  - seaborn
+  - tensorflow
+  - IPython
+  - pillow
