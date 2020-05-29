@@ -8,3 +8,6 @@ https://mybinder.org/v2/gh/pzindel/programming_workshop_files/master?filepath=Se
 
 Session_3_Analyzing_Data_with_Python.ipynb
 https://mybinder.org/v2/gh/pzindel/programming_workshop_files/master?filepath=Session_3_Analyzing_Data_with_Python.ipynb
+
+Blank_Notebook.ipynb
+https://mybinder.org/v2/gh/pzindel/programming_workshop_files/master?filepath=Blank_Notebook.ipynb
