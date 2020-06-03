@@ -11,3 +11,6 @@ https://mybinder.org/v2/gh/pzindel/programming_workshop_files/master?filepath=Se
 
 Blank_Notebook.ipynb
 https://mybinder.org/v2/gh/pzindel/programming_workshop_files/master?filepath=Blank_Notebook.ipynb
+
+Session_2 examples
+https://mybinder.org/v2/gh/pzindel/programming_workshop_files/master?filepath=Python_Basics_Examples_Notebook.ipynb
