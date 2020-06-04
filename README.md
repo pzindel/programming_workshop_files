@@ -16,5 +16,5 @@ Session_2 examples
 https://mybinder.org/v2/gh/pzindel/programming_workshop_files/master?filepath=Python_Basics_Examples_Notebook_2.ipynb
 
 Session_3 examples
-https://mybinder.org/v2/gh/pzindel/programming_workshop_files/master?filepath=Data_analysis_notebook.ipynb
+https://mybinder.org/v2/gh/pzindel/programming_workshop_files/master?filepath=Data_Analysis_notebook.ipynb
 
